@@ -63,7 +63,7 @@ To do:
 
 ## Acknowledgements
 
-- Based on tamplate by [@RitaLyczywek](https://github.com/ritaly), [Ritaly](https://www.flynerd.pl/)
+- Based on template by [@RitaLyczywek](https://github.com/ritaly), [Ritaly](https://www.flynerd.pl/)
 
 
 ## Contact
