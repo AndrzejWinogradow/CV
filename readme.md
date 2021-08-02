@@ -1,5 +1,5 @@
 # Andrzej Winogradow CV
-[Zapraszam do obejrzenia mojego Curriculum Vitae](https://andrzejwinogradow.github.io/CV/) 
+[Zapraszam do zapoznania się z moim Curriculum Vitae](https://andrzejwinogradow.github.io/CV/) 
 
 ## Table of Contents
 * [General Info](#general-information)
